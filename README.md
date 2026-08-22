@@ -1,1 +1,1 @@
-# Graylog-SIEM
+# SOC-Homelab
